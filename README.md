@@ -1,4 +1,4 @@
-Hi there 👋
+<b> Hi there </b>👋
 
 Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico
 
