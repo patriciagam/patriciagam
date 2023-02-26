@@ -13,3 +13,4 @@ Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico
 ***
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciagam&theme=material-palenight&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciagam&theme=material-palenight&hide_progress=false)
