@@ -1,4 +1,4 @@
-<font size="+2"><b> Hi there </b></font>👋
+<p style="font-size:30px"> Hi there 👋</p>
 
 Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico
 
