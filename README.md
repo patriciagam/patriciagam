@@ -1,6 +1,6 @@
-<h3> Hi there 👋</h3>
+## Hi there 👋
 
-Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico
+![Me :)](/banner.png)
 
 ## Languages and Tools:
 <p align="left">
