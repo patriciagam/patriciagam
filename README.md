@@ -11,15 +11,12 @@ Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico
 </p>
 
 ***
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciagam&theme=nightowl&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciagam&theme=nightowlt&hide_progress=false)
 
 ## Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username==patriciagam&layout=compact&hide_border=true&langs_count=8&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=patriciagam&layout=compact&hide_border=true&langs_count=8&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username==patriciagam&hide_border=true&theme=nightowl&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patriciagam&hide_border=true&theme=nightowl&show_icons=true&count_private=true" />
 </a>
