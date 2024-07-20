@@ -10,12 +10,10 @@ Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" alt="GitLab" height="35" style="vertical-align:top; margin:5px">
 </p>
 
-***
-
 ## Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=patriciagam&layout=compact&hide_border=true&langs_count=8&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciagam&layout=compact&hide_border=true&langs_count=8&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patriciagam&hide_border=true&theme=nightowl&show_icons=true&count_private=true" />
