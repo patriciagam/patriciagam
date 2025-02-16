@@ -1,6 +1,6 @@
-## Hi there 👋
-
 ![Me :)](/banner.png)
+
+I'm a third-year Computer Science and Engineering student at Instituto Superior Técnico, passionate about problem-solving and technology.
 
 ## Languages and Tools:
 <p align="left">
