@@ -1,23 +1,40 @@
-![Me :)](/banner.png)
+[![Me :)](/banner.png)](https://patriciagameiro.com)
 
-I'm a third-year Computer Science and Engineering student at Instituto Superior Técnico, passionate about problem-solving and technology.
+Master’s student in Software Systems Engineering at RWTH Aachen University, passionate about problem-solving and technology.
 
 ## Languages and Tools:
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" height="35" style="vertical-align:top; margin:5px">
-<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="C++" height="35" style="vertical-align:top; margin:5px">
-<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" height="35" style="vertical-align:top; margin:5px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="35" style="vertical-align:top; margin:5px">
-<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="SQL" height="35" style="vertical-align:top; margin:5px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="35" style="vertical-align:top; margin:5px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" alt="GitLab" height="35" style="vertical-align:top; margin:5px">
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;
+  <img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  &nbsp;
+  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  &nbsp;
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;
+  <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;
+  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  &nbsp;
+  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;
+  <img alt="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  &nbsp;
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  &nbsp;
+  <img alt="Cypress" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  &nbsp;
+  <img alt="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  &nbsp;
+  <img alt="AWS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
 </p>
 
 ## Stats
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciagam&layout=compact&hide_border=true&langs_count=8&theme=neon" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patriciagam&hide_border=true&theme=neon&show_icons=true&count_private=true" />
-</a>
+[![GitHub stats-Dark](https://github-readme-stats-inesiscosta.vercel.app/api?username=patriciagam&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=FF58C8&text_color=FFFEFE&title_color=51E1CB#gh-dark-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-inesiscosta.vercel.app/api?username=patriciagam&show_icons=true&icon_color=51E1CB&title_color=FF58C8#gh-light-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-light-mode-only)
