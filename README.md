@@ -36,5 +36,5 @@ Master’s student in Software Systems Engineering at RWTH Aachen University, pa
 
 ## Stats
 
-[![GitHub stats-Dark](https://github-readme-stats-inesiscosta.vercel.app/api?username=patriciagam&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=FF58C8&text_color=FFFEFE&title_color=51E1CB#gh-dark-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats-inesiscosta.vercel.app/api?username=patriciagam&show_icons=true&icon_color=51E1CB&title_color=FF58C8#gh-light-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats-patricia.vercel.app/api?username=patriciagam&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=FF58C8&text_color=FFFEFE&title_color=51E1CB#gh-dark-mode-only)](https://github.com/patriciagam/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-patricia.vercel.app/api?username=patriciagam&show_icons=true&icon_color=51E1CB&title_color=FF58C8#gh-light-mode-only)](https://github.com/patriciagam/github-readme-stats#gh-light-mode-only)
